@@ -1,0 +1,6 @@
+ipandas
+NumPy
+scikit-learn
+WordCloud
+Streamlit
+joblib
