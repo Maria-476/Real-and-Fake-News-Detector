@@ -2,7 +2,7 @@
 
 A binary text classification project that detects fake vs. real news articles using TF-IDF vectorization and a Linear Support Vector Classifier (SVM). Beyond just training a model, this project includes a full investigation into data leakage and model generalization — documented honestly, including where the model struggles.
 
-🔗 **Live demo:** [Streamlit App Link] *(add after deployment)*
+🔗 **Live demo:** https://real-and-fake-news-detector-d2bduhvoqyaug7cjb9tzx2.streamlit.app/
 
 ---
 
